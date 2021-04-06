@@ -9,7 +9,7 @@
 <a href=https://www.codewars.com/users/Ftz_borna>My current codewars rank:</a>
 <br>
 <br>
-<img src=https:https://www.codewars.com/users/Ftz_borna/badges/large>
+<img src=https://www.codewars.com/users/Ftz_borna/badges/large>
 
 <br>
 
